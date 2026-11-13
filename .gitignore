@@ -1,8 +1,14 @@
 .env
 .venv
+.idea
+
 
 dockerized/
 
 *.md
 
 README.md
+
+__pycache__/
+
+.gitignore
